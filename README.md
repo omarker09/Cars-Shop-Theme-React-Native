@@ -1,4 +1,4 @@
-Car Marketplace App
+Car Marketplace App UI UX Theme
 Welcome to the Car Marketplace App project! This Android application is designed to showcase the concept of a car marketplace where users can browse and view car listings. Please note that this is a demonstration project, and certain features may not be fully functional due to the absence of a real API and database.
 
 Features
